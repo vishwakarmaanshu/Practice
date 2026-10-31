@@ -4,7 +4,7 @@ public class String_immutable {
 
     public static void main(String[] args) {
 
-        String str = "Hello";
+        String str = "Hi";
 
         System.out.println("Original String: " + str);
 
